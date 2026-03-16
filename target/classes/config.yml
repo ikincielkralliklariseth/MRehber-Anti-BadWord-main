@@ -1,0 +1,61 @@
+sohbet-moderasyonu:
+  ai:
+    aktif: true
+    provider: "groq"
+    istem: ""
+  discord:
+    aktif: false
+    webhook-adresi: ""
+  ayarlar:
+    toplu-kontrol-mesaj-sayisi: 50
+    spam-maksimum-mesaj: 8
+    spam-zaman-araligi: 10000
+    mesaj-gecmisi-boyutu: 100
+profanity-list:
+  github-url: "https://raw.githubusercontent.com/ikincielkralliklariseth/K-f-r-Listesi/refs/heads/main/kufurler_cache_.yml"
+ai-providers:
+  groq:
+    api-anahtari: ""
+    model: "llama-3.3-70b-versatile"
+  gemini:
+    api-anahtari: ""
+  openai:
+    api-anahtari: ""
+    model: "gpt-4o"
+  perplexity:
+    api-anahtari: ""
+    model: "llama-3.1-sonar-large-128k-online"
+  together:
+    api-anahtari: ""
+    model: "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo"
+  mistral:
+    api-anahtari: ""
+    model: "mistral-large-latest"
+  openrouter:
+    api-anahtari: ""
+    model: "meta-llama/llama-3.1-405b"
+  deepseek:
+    api-anahtari: ""
+cezalar:
+  birinci-derece:
+    sure: "15m"
+    sebep: "LoraAI - Hafif Küfür"
+    komut: "tempmute {oyuncu} {sure} {sebep}"
+  ikinci-derece:
+    sure: "1h"
+    sebep: "LoraAI - Ağır Küfür"
+    komut: "tempmute {oyuncu} {sure} {sebep}"
+  ucuncu-derece:
+    sure: "7d"
+    sebep: "LoraAI - Saygısızlık/Kutsala Hakaret"
+    komut: "tempban {oyuncu} {sure} {sebep}"
+  belirsizlik:
+    sure: "5m"
+    sebep: "LoraAI - Şüpheli İçerik"
+    komut: "tempmute {oyuncu} {sure} {sebep}"
+  uyari-sonrasi:
+    sure: "30m"
+    sebep: "LoraAI - {maksimum} Uyarı Sınırı"
+    komut: "tempmute {oyuncu} {sure} {sebep}"
+uyari:
+  maksimum-uyari: 3

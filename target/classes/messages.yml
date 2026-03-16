@@ -1,0 +1,43 @@
+mesajlar:
+  prefix: "&6&lʟ&e&lᴏʀᴀ&f&lᴀɪ&r&7 » "
+  bildir:
+    sadece-oyuncu: "&cʙᴜ ᴋᴏᴍᴜᴛᴜ sᴀᴅᴇᴄᴇ ᴏʏᴜɴᴄᴜʟᴀʀ ᴋᴜʟʟᴀɴᴀʙɪʟɪʀ!"
+    kullanim: "&eᴋᴜʟʟᴀɴıᴍ: &f/ʙɪʟᴅɪʀ <ᴏʏᴜɴᴄᴜ>"
+    oyuncu-yok: "&cʙᴜ ᴏʏᴜɴᴄᴜ şᴜ ᴀɴᴅᴀ çᴇᴠʀɪᴍɪçɪ ᴅᴇğɪʟ!"
+    isleniyor: "&6ʙɪʟᴅɪʀɪ &eʟᴏʀᴀᴀɪ &6ᴛᴀʀᴀғıɴᴅᴀɴ ᴀɴᴀʟɪᴢ ᴇᴅɪʟɪʏᴏʀ..."
+    sonuc-temiz: "&7sᴏɴᴜç: &aɪʜʟᴀʟ ᴛᴇsᴘɪᴛ ᴇᴅɪʟᴍᴇᴅɪ"
+    sonuc-ihlal: "&cɪʜʟᴀʟ ᴛᴇsᴘɪᴛ ᴇᴅɪʟᴅɪ → ᴄᴇᴢᴀ ᴜʏɢᴜʟᴀɴᴅı"
+    hata: "&cʙɪʟᴅɪʀɪ ɪşʟᴇɴɪʀᴋᴇɴ ʙɪʀ ʜᴀᴛᴀ ᴏʟᴜşᴛᴜ!"
+    zaten-isleniyor: "&cʙᴜ ᴏʏᴜɴᴄᴜ ᴢᴀᴛᴇɴ ᴀɴᴀʟɪᴢ ᴇᴅɪʟɪʏᴏʀ!"
+    mesaj-yok: "&cʜᴇɴüᴢ ᴀɴᴀʟɪᴢ ᴇᴅɪʟᴇᴄᴇᴋ ᴍᴇsᴀᴊ ʏᴏᴋ!"
+    basladi: "&6LoraAI &eAnalizi başlatıldı, lütfen bekleyin..."
+    cooldown: "&cʙɪʟᴅɪʀɪ ʏᴀᴘᴍᴀᴋ ɪçɪɴ ʙɪʀᴀᴢ ʙᴇᴋʟᴇᴍᴇʟɪsɪɴ! &7({sure} ᴋᴀʟᴅı)"
+  ceza:
+    susturuldu: "&cʟᴏʀᴀᴀɪ ᴛᴀʀᴀғıɴᴅᴀɴ ᴏᴛᴏᴍᴀᴛɪᴋ sᴜsᴛᴜʀᴜʟᴅᴜɴ!"
+    sebep: "&6sᴇʙᴇᴘ: &f{sebep}"
+    sure: "&6süʀᴇ: &f{sure}"
+    title: "&6&lᴀɢᴢɪɴ ᴄᴏᴋ ʙᴏᴢᴜᴋ!"
+    subtitle: "&e{sure} &7sᴜʀᴇʏʟᴇ ᴍᴜᴛᴇ ʏᴇᴅɪɴ!"
+  uyari:
+    mesaj: "&6ᴜʏᴀʀɪ &l{sayi}&e/&l{maksimum}&e: &fʟüᴛꜰᴇɴ ᴅɪʟɪɴᴇ ᴅɪᴋᴋᴀᴛ ᴇᴛ!"
+    title: "&6&lʟᴜᴛꜰᴇɴ ᴀɢᴢıɴı ᴛᴏᴘʟᴀ!"
+    subtitle: "&eʟᴏʀᴀᴀɪ &7sᴇɴɪ ɪᴢʟɪʏᴏʀ &8(&6{sayi}&e/&6{maksimum}&8)"
+    hafif-hakaret: "&cʟüᴛꜰᴇɴ ʜᴀᴋᴀʀᴇᴛ ᴇᴛᴍᴇ! &7(mal, salak, ezik vb.)"
+  ozur:
+    ipucu: "&7&oİpucu: Eğer hatanı anladıysan &f&o'özür dilerim' &7&oyazarak bir uyarını sildirebilirsin!"
+    kabul: "&aÖzrün kabul edildi! &7LoraAI bir uyarını sildi &8(&f{sayi}&8/&f{maks}&8)"
+    cooldown: "&6Saatte sadece &e1 kez &6özür dileyebilirsin! &7(&f{remaining}dk kaldı)"
+    hic-uyari-yok: "&cÖzür dilemek için önce uyarı alman gerekiyor!"
+  hata:
+    spam: "&cÇok hızlı mesaj atıyorsun! &7LoraAI mesajını engelledi."
+    cok-hizli: "&cÇok hızlısın! Biraz yavaşla."
+    yetki-yok: "&cBu komutu kullanmaya yetkin yok!"
+  discord:
+    baslik: "LoraAI Moderasyon Bildirimi"
+    footer: "LoraAI Akıllı Güvenlik Sistemi"
+    alan-oyuncu: "Oyuncu:"
+    alan-mesaj: "Mesaj:"
+    alan-islem: "İşlem:"
+    alan-sure: "Süre:"
+    alan-uyari: "Uyarı Sayısı:"
+    alan-kanit: "Kanıt Mesajları:"

@@ -1,0 +1,17 @@
+name: LoraAI
+version: '1.2'
+main: xyz.mrehber.MRehberPlugin
+api-version: '1.21'
+folia-supported: true
+commands:
+  bildir:
+    permission: 'moderasyon.bildir'
+  mrehberguncelle:
+    permission: 'mrehber.admin'
+permissions:
+  moderasyon.bildir:
+    default: true
+  mrehber.admin:
+    default: op
+  moderasyon.bypass:
+    default: op
