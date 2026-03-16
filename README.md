@@ -1,8 +1,7 @@
 # MRehber: AI Moderation System
 
 
-<img width="2400" height="1540" alt="mrehber_banner_1200x640" src="https://github.com/user-attachments/assets/5967fdbd-94a3-4e57-8955-8b894a86bbc6" />
-
+<img width="1200" height="640" alt="mrehber_banner" src="https://github.com/user-attachments/assets/0b291e24-9c88-4bc6-bdce-78b557c378c3" />
 
 MRehber is a next-generation Minecraft moderation plugin that uses Artificial Intelligence to analyze chat context, identify toxic behavior, and maintain a respectful community automatically.
 
