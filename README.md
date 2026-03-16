@@ -220,7 +220,6 @@
 </svg>
 
 
-
 MRehber is a next-generation Minecraft moderation plugin that uses Artificial Intelligence to analyze chat context, identify toxic behavior, and maintain a respectful community automatically.
 
 ## Core Features
